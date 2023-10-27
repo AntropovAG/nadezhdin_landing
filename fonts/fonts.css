@@ -1,26 +1,27 @@
 @font-face {
-  font-family: "Nunito Sans";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Nunito Sans"),
-  url("NunitoSans_10pt-Regular.woff") format("WOFF");
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("IBMPlexSans-Regular.woff") format("WOFF");
 }
 
 @font-face {
-  font-family: "Nunito Sans";
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Nunito Sans"),
-  url("NunitoSans_10pt-Italic.woff") format("WOFF");
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 600;
+    src: url("IBMPlexSans-SemiBold.woff") format("WOFF");
 }
 
 @font-face {
-  font-family: "Yeseva One";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Yeseva One"),
-  url("YesevaOne-Regular.woff") format("WOFF");
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 500;
+    src: url("IBMPlexSans-Medium.woff") format("WOFF");
+}
+
+@font-face {
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("IBMPlexSans-Bold.woff") format("WOFF");
 }
